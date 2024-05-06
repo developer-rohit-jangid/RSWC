@@ -111,7 +111,7 @@ To calculate the statistics of the `example.txt` file using the WC tool, we can 
   ```
 
 **Screenshot:**
-![Screenshot](screenshots/demo.png)
+![Screenshot](./screenshot/demo.png)
 
 
 **License:**
